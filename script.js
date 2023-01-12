@@ -3,6 +3,7 @@
 //     console.log("clicked")
 // })
 let btn= document.querySelector("#btn-translate")
-btn.addEventListener("keyboard",function clickevent(){
-document.getElementById("btn-translate").style.color="yellow"
+btn.addEventListener("click",
+function clickevent(){
+document.getElementById("btn-translate").style.background="yellow"
 })
