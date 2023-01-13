@@ -12,5 +12,10 @@ color: blue;
 text-align: center;
 line-height: 2;
 }
-
+#output{
+    margin: 5px;
+    border:1px solid black;
+    height: 20vh;
+    background-color: grey;
+}
 
